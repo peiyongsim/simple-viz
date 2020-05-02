@@ -13,7 +13,7 @@ python3 -m pip install --user --upgrade pip
 
 Installing Virtual Environment
 ```
-python3 -m pip install --user virtualenv
+py -m pip install --user virtualenv
 ```
 
 ## Get the repository 
@@ -34,8 +34,9 @@ cd simple-viz
 
 Creating and activating a virtual environment
 ```
-python3 -m venv env && source env/bin/activate
+py -m venv env
 
+.\env\Scripts\activate
 ```
 
 Installing packages
