@@ -53,7 +53,7 @@ python3 run_viz.py ~/Desktop/gender.csv
 
 ## Results/Output
 It should look like this
-![alt text](https://github.com/peiyongsim/simple-viz/viz.png)
+![viz](https://github.com/peiyongsim/simple-viz/blob/master/viz.png)
 
 Click on the floppy disk (diskette) symbol to save it to your local drive
 
